@@ -1,0 +1,9 @@
+.homePage {
+    color: white;
+}
+
+@media only screen and (max-width: 1290px) {
+    .homePage {
+      display:none;
+  }
+}
